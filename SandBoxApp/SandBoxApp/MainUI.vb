@@ -5,4 +5,8 @@
         Console.ReadKey()
     End Sub
 
+    Public Function Test()
+
+        Return True
+    End Function
 End Module
