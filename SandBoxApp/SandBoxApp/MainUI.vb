@@ -14,4 +14,8 @@
 
         Return True
     End Function
+
+    Public Function Display()
+        Return True
+    End Function
 End Module
