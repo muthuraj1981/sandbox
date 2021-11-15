@@ -18,4 +18,6 @@
     Public Function Display()
         Return True
     End Function
+
+    Public Property AppPath As String = String.Empty
 End Module
